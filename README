@@ -7,5 +7,4 @@ The ResourceLoader was used in several projects which made it suitable for a sta
 ```java
 ResourceLoader loader = new ResourceLoader();
 InputStream in = loader.getResourceAsStream("test.stuff");
-...
 ```
