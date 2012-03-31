@@ -1,4 +1,5 @@
-h1. ResourceLoader project
+ResourceLoader
+==============
 
 Original code was part of Slick2d done by Kevin Glass (http://www.cokeandcode.com)
 
@@ -6,9 +7,7 @@ The ResourceLoader allows reading of resources from different locations. By defa
 
 The ResourceLoader was used in several projects which made it suitable for a standalone project.
 
-h1. Example Usage
+### Example Usage
 
-<pre>
-ResourceLoader loader = new ResourceLoader();
-InputStream in = loader.getResourceAsStream("test.stuff");
-</pre>
+    ResourceLoader loader = new ResourceLoader();
+    InputStream in = loader.getResourceAsStream("test.stuff");
