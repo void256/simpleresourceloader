@@ -11,7 +11,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <url>https://github.com/void256/resourceloader</url>
+  <url>https://github.com/void256/simpleresourceloader</url>
   <licenses>
     <license>
       <name>The BSD 2-Clause License</name>
@@ -62,8 +62,8 @@
     </pluginManagement>
   </build>
   <scm>
-    <connection>scm:git:git://github.com/void256/resourceloader.git</connection>
-    <developerConnection>scm:git:git@github.com:void256/resourceloader.git</developerConnection>
+    <connection>scm:git:git://github.com/void256/simpleresourceloader.git</connection>
+    <developerConnection>scm:git:git@github.com:void256/simpleresourceloader.git</developerConnection>
     <url>https://github.com/void256/resourceloader</url>
   </scm>
   <distributionManagement>
